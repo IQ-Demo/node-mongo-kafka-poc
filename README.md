@@ -1,2 +1,4 @@
-# node-mongo-kafka-poc
-NodeJs, Mongo, Kafka Proof of Concept 
+# node-docker-kafka-mongoose
+Simple node and express docker 
+
+## Tou Use NPM Install, create .env file and set PORT and MONGOINSTANCE 
